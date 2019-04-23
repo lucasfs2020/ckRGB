@@ -1,4 +1,4 @@
-//All code is found at http://www.troubleshooters.com/codecorn/lua/lua_c_calls_lua.htm
+//All code is based on code found at http://www.troubleshooters.com/codecorn/lua/lua_c_calls_lua.htm
 
 #include "lauxlib.h"
 #include "lua.h"
